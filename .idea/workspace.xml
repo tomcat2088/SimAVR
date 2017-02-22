@@ -1,0 +1,686 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="da0d3fe3-d389-4c02-bae5-0a78e82cd919" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/.deps/.dirstamp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/.dirstamp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.deps/.dirstamp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.dirstamp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/.dirstamp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.dirstamp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/AVR.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/AVR.mm" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/adcpin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/adcpin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/application.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/application.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/at4433.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/at4433.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/at8515.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/at8515.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/at90canbase.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/at90canbase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega128.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega128.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega1284abase.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega1284abase.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega16_32.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega16_32.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega668base.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega668base.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega8.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/atmega8.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/attiny2313.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/attiny2313.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/attiny25_45_85.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/attiny25_45_85.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice_impl.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrerror.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrerror.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrfactory.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrfactory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrmalloc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrmalloc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrreadelf.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrreadelf.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrsignature.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/avrsignature.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/.deps/dumpargs.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/.deps/gdbserver.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/.deps/main.Po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/dumpargs.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/dumpargs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/gdb.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/gdbserver.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/main.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/config.h.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/decoder.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/decoder.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/decoder_trace.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/AUTHORS" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/COPYING" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/VERSION" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elf_types.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_dump.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_dynamic.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_header.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_note.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_relocation.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_section.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_segment.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_strings.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_symbols.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/elfio/elfio/elfio_utils.hpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/externalirq.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/externalirq.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/externaltype.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/flash.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/flash.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/flashprog.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/flashprog.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/funktor.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/bsittler's Home Page.URL" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/getopt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/my_getopt.c" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/my_getopt.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hardware.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hardware.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/helper.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/helper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwacomp.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwacomp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwad.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwad.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwdecls.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hweeprom.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hweeprom.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwpinchange.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwpinchange.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwport.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwspi.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwspi.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwsreg.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwsreg.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwstack.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwstack.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.deps/hwtimer.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.deps/icapturesrc.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.deps/prescalermux.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.deps/timerirq.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/.deps/timerprescaler.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/hwtimer.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/hwtimer.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/icapturesrc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/icapturesrc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/prescalermux.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/prescalermux.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/timerirq.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/timerirq.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/timerprescaler.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwtimer/timerprescaler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwuart.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwuart.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwwado.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/hwwado.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ioregs.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ioregs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/irqsystem.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/irqsystem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/memory.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/memory.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/msvc/config.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/msvc/stdint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/net.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/net.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pinatport.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pinatport.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pinmon.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pinmon.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/pinnotify.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/printable.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/pysimulationmember.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/setcfg.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/python/setup.py.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/rwmem.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/rwmem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/simulationmember.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/simulavr_info.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/specialmem.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/specialmem.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/spisink.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/spisink.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/spisrc.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/spisrc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/stamp-h1" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/string2.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/string2.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/string2_template.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/systemclock.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/systemclock.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/systemclocktypes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/traceval.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/traceval.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/types.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/extpin.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/kbdgentables.Po" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/keyboard.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/lcd.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/mysocket.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/scope.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/serialrx.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/serialtx.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/.deps/ui.Plo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/Makefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/Makefile.am" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/Makefile.in" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/extpin.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/extpin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/kbdgentables.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/keyboard.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/keyboard.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/keynumber_to_scancode.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/keytrans.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/lcd.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/lcd.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/mysocket.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/mysocket.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/scope.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/scope.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/serialrx.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/serialrx.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/serialtx.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/serialtx.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/tracecontrol.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/ui.cpp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/ui.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/ui/xcode_to_keynumber.dat" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/verilog/avr.v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/verilog/avr_ATmega8.v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/verilog/avr_ATtiny2313.v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/verilog/avr_ATtiny25.v" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/SimAVR/simavrlib/src/vpi.cpp" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/SimAVR/main.m" afterPath="$PROJECT_DIR$/SimAVR/main.mm" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimAVR.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/SimAVR.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimAVR.xcodeproj/xcuserdata/ocean.xcuserdatad/xcschemes/SimAVR.xcscheme" afterPath="$PROJECT_DIR$/SimAVR.xcodeproj/xcuserdata/ocean.xcuserdatad/xcschemes/SimAVR.xcscheme" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimAVR.xcodeproj/xcuserdata/ocean.xcuserdatad/xcschemes/xcschememanagement.plist" afterPath="$PROJECT_DIR$/SimAVR.xcodeproj/xcuserdata/ocean.xcuserdatad/xcschemes/xcschememanagement.plist" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/SimAVR/ViewController.m" afterPath="$PROJECT_DIR$/SimAVR/ViewController.m" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="iphoneos_bd46f26121f3bb0d1ff2436774dafd4cb0ba3b7f" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="AVR.mm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/AVR.mm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+              <folding>
+                <element signature="e#122#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/application.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="814">
+              <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="traceval.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/traceval.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="441" column="6" lean-forward="false" selection-start-line="441" selection-start-column="6" selection-end-line="441" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avrerror.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrerror.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="273">
+              <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avrdevice.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1185">
+              <caret line="166" column="14" lean-forward="true" selection-start-line="166" selection-start-column="14" selection-end-line="166" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avrdevice.cpp" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5368">
+              <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="38" selection-end-line="256" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pin.h" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/pin.h">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="systemclock.cpp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/systemclock.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2684">
+              <caret line="138" column="17" lean-forward="false" selection-start-line="138" selection-start-column="17" selection-end-line="138" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trace_on</find>
+      <find>opIsCli</find>
+      <find>valmap_t</find>
+      <find>Step</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/my_getopt.h" />
+        <option value="$PROJECT_DIR$/SimAVR/AVR.h" />
+        <option value="$PROJECT_DIR$/SimAVR/ViewController.m" />
+        <option value="$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/main.cpp" />
+        <option value="$PROJECT_DIR$/SimAVR/AVR.mm" />
+        <option value="$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1076" />
+    <option name="height" value="1897" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Cidr.FilesView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimAVR" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimAVR" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimAVR" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeRootNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimAVR" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SimAVR" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simavrlib" />
+              <option name="myItemType" value="com.jetbrains.cidr.projectView.XcodeViewNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="OBJC.PRESERVED_TARGET_SELECTION" value="SimAVR" />
+  </component>
+  <component name="RunManager" selected="Application.SimAVR">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SimAVR" TARGET_NAME="SimAVR" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SimAVR" RUN_TARGET_NAME="SimAVR" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="OCGoogleTestRunConfigurationType" factoryName="Google Test" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SimAVR" TARGET_NAME="SimAVR" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="OCUnitRunConfiguration" factoryName="XCTest/Kiwi" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SimAVR" TARGET_NAME="SimAVRTests" CONFIG_NAME="Debug" TEST_MODE="SUITE_TEST">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="SimAVR" type="AppleRunConfiguration" factoryName="Application" WORKING_DIR="" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SimAVR" TARGET_NAME="SimAVR" CONFIG_NAME="Debug" SCHEME_NAME="SimAVR" RUN_TARGET_PROJECT_NAME="SimAVR" RUN_TARGET_NAME="SimAVR" MAKE_ACTIVE="TRUE">
+      <envs />
+      <EXTENSION ID="org.jetbrains.appcode.reveal.RevealRunConfigurationExtension">
+        <REVEAL_SETTINGS autoInject="false" autoInstall="true" askToEnableAutoInstall="true" />
+      </EXTENSION>
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Application.SimAVR" />
+    </list>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="da0d3fe3-d389-4c02-bae5-0a78e82cd919" name="Default" comment="" />
+      <created>1487731810881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1487731810881</updated>
+      <workItem from="1487731814319" duration="4252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4252000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1076" height="1897" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290859" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2729858" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32963988" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27867037" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="AppleRunConfiguration">
+        <watch expression="allPins" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/my_getopt.c">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/getopt/my_getopt.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="946">
+          <caret line="43" column="14" lean-forward="false" selection-start-line="43" selection-start-column="14" selection-end-line="43" selection-end-column="14" />
+          <folding>
+            <element signature="e#1313#1325#0" expanded="false" />
+            <element signature="e#2421#2422#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/AVR.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="32" lean-forward="false" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <marker date="1487733478000" expanded="true" signature="215:220" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/ViewController.m">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="11" lean-forward="false" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding>
+            <element signature="e#133#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/cmd/main.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="163" column="2" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="474" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/systemclock.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2684">
+          <caret line="138" column="17" lean-forward="false" selection-start-line="138" selection-start-column="17" selection-end-line="138" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrerror.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="129" column="19" lean-forward="false" selection-start-line="129" selection-start-column="8" selection-end-line="129" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/hwsreg.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1070">
+          <caret line="64" column="26" lean-forward="true" selection-start-line="64" selection-start-column="26" selection-end-line="64" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/rwmem.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="41" column="6" lean-forward="false" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/traceval.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1413">
+          <caret line="169" column="17" lean-forward="false" selection-start-line="169" selection-start-column="9" selection-end-line="169" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice_impl.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#17#35#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/traceval.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="441" column="6" lean-forward="false" selection-start-line="441" selection-start-column="6" selection-end-line="441" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/application.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="38" column="18" lean-forward="false" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="166" column="14" lean-forward="true" selection-start-line="166" selection-start-column="14" selection-end-line="166" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/AVR.mm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="e#122#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/pin.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="122" column="19" lean-forward="false" selection-start-line="122" selection-start-column="19" selection-end-line="122" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SimAVR/simavrlib/src/avrdevice.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5368">
+          <caret line="256" column="38" lean-forward="false" selection-start-line="256" selection-start-column="38" selection-end-line="256" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
